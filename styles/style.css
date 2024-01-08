@@ -1,24 +1,61 @@
 /* Header related style */
-.header{
+.header {
     background-image: url('../images/Banner\ Image.png');
     background-repeat: no-repeat;
     height: 600px;
     margin: 80px 250px;
+    background-position: center;
 }
 
-.background_header{
+.background_header {
     text-align: center;
     padding-top: 50px;
 }
 
-.header_title{
+.header_title {
     color: white;
     font-size: 50px;
     margin-bottom: 0;
 }
 
-.header_description{
+.header_description {
     color: white;
     font-size: 80px;
     margin-top: 10px;
 }
+
+/* main related style */
+
+.main {
+    margin: 80px 250px;
+}
+
+/* First section */
+
+.main_text_container {
+    text-align: center;
+}
+
+.text_title {
+    color: #FF0000;
+    font-size: 60px;
+}
+
+.title_description {
+    color: #FF0000;
+    margin-bottom: 0;
+}
+
+.categories {
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+.first_section_image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+/* Second section */
