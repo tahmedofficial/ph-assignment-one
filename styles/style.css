@@ -1,0 +1,24 @@
+/* Header related style */
+.header{
+    background-image: url('../images/Banner\ Image.png');
+    background-repeat: no-repeat;
+    height: 600px;
+    margin: 80px 250px;
+}
+
+.background_header{
+    text-align: center;
+    padding-top: 50px;
+}
+
+.header_title{
+    color: white;
+    font-size: 50px;
+    margin-bottom: 0;
+}
+
+.header_description{
+    color: white;
+    font-size: 80px;
+    margin-top: 10px;
+}
