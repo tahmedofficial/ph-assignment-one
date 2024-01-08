@@ -59,3 +59,40 @@
 }
 
 /* Second section */
+
+.second_section {
+    background-image: url('../images/Vectorrr.png');
+    background-repeat: no-repeat;
+    height: 600px;
+    background-position: center;
+    margin-top: 100px;
+    /* display: flex; */
+}
+
+.second_section_main_div {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    padding: 80px;
+}
+
+.second_section_text {
+    padding-top: 10px;
+    text-align: center;
+}
+
+.second_section_image {
+    padding-top: 20px;
+}
+
+.second_section_title {
+    color: white;
+    font-size: 80px;
+    margin-bottom: 0;
+}
+
+.second_section_description {
+    color: white;
+    font-size: 20px;
+    margin-top: 10px;
+}
