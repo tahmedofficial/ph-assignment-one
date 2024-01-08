@@ -7,6 +7,15 @@
     background-position: center;
 }
 
+.primary_button{
+    color: #FFFFFF;
+    background-color: #FF0000;
+    height: 50px;
+    width: 120px;
+    border: none;
+    border-radius: 10px;
+}
+
 .background_header {
     text-align: center;
     padding-top: 50px;
@@ -95,4 +104,33 @@
     color: white;
     font-size: 20px;
     margin-top: 10px;
+}
+
+/* Third section */
+
+.third_section{
+    background-image: linear-gradient(#ea9494, #FFFFFF);
+    height: 500px;
+    margin: 100px 30px;
+    border-radius: 15px;
+}
+
+.third_section_container{
+    text-align: center;
+    padding-top: 100px;
+}
+
+.third_section_text{
+    font-size: 40px;
+    margin-bottom: 5px;
+    margin-top: 0;
+}
+
+.third_section_text_color{
+    color: #FF0000;
+}
+
+.third_section_button{
+    text-align: center;
+    margin-top: 60px;
 }
