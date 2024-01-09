@@ -291,3 +291,46 @@
 .section_eight_image {
     width: 320px;
 }
+
+/* last section */
+
+.last_section {
+    height: 600px;
+    margin: 0 30px;
+    margin-top: 100px;
+    background-color: #f3dada;
+    border-radius: 15px;
+}
+
+.last_section_container {
+    text-align: center;
+}
+
+.last_section_mail_icon {
+    padding-top: 50px;
+}
+
+.last_section_eb_container {
+    margin-top: 50px;
+}
+
+.last_section_email {
+    height: 37px;
+    width: 300px;
+    border: none;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    padding-left: 20px;
+    margin-right: 0;
+}
+
+.last_section_button {
+    background-color: #FF0000;
+    border: none;
+    height: 37px;
+    width: 100px;
+    margin-left: 0;
+    color: #FFFFFF;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
