@@ -334,3 +334,41 @@
     border-top-right-radius: 30px;
     border-bottom-right-radius: 30px;
 }
+
+/* Footer related style */
+
+.footer {
+    background-color: #060211;
+}
+
+.footer_head_container {
+    justify-content: space-between;
+    display: flex;
+    margin: 0 200px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.footer_text_color {
+    color: #FFFFFF;
+}
+
+.foote_img_icon {
+    margin-right: 20px;
+}
+
+.footer_image_container {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.footer_img {
+    margin: 20px;
+}
+
+.hr_color {
+    height: 1px;
+    background-color: #919492;
+    border: none;
+}
