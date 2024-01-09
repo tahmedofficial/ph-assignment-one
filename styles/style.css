@@ -237,6 +237,7 @@
     display: flex;
     position: relative;
     text-align: center;
+    justify-content: center;
 }
 
 .image1 {
@@ -264,4 +265,29 @@
     height: 300px;
     margin: 0 30px;
     margin-top: 100px;
+}
+
+.section_seven_container {
+    justify-content: center;
+}
+
+/* section eight */
+
+.section_eight {
+    text-align: center;
+}
+
+.section_eight_container {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.section_eight_container_element {
+    margin: 15px;
+    margin-left: 30px;
+}
+
+.section_eight_image {
+    width: 320px;
 }
