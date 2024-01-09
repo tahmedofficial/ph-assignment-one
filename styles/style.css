@@ -143,17 +143,17 @@
     border-radius: 15px;
 }
 
-.section_four_container{
+.section_four_container {
     display: flex;
     justify-content: center;
 }
 
-.section_four_element_div{
+.section_four_element_div {
     margin-right: 100px;
     margin-top: 50px;
 }
 
-.section_four_element_div2{
+.section_four_element_div2 {
     margin-left: 200px;
     margin-top: 50px;
 }
@@ -189,7 +189,7 @@
 
 /* section four element third div */
 
-.section_four_second_element_title{
+.section_four_second_element_title {
     font-size: 35px;
     color: #FF0000;
     margin-bottom: 0;
@@ -197,27 +197,63 @@
 
 /* section five */
 
-.section_five{
+.section_five {
     height: 300px;
     margin: 0 30px;
     margin-top: 100px;
 }
 
-.section_five_container{
+.section_five_container {
     text-align: center;
 }
 
-.section_five_head{
+.section_five_head {
     font-size: 20px;
     margin-bottom: 5px;
 }
 
-.section_five_title{
+.section_five_title {
     font-size: 50px;
     margin-top: 0;
     margin-bottom: 0;
 }
 
-.holidays{
+.holidays {
     color: #FF0000;
+}
+
+/* section six */
+
+.section_six {
+    height: 700px;
+    margin: 0 30px;
+    background-image: url('../images/Rectangle\ 2.png');
+    background-repeat: no-repeat;
+    background-position: bottom;
+    /* background-color: #919492; */
+}
+
+.section_six_top_container {
+    display: flex;
+    position: relative;
+    text-align: center;
+}
+
+.image1 {
+    width: 500px;
+    height: 500px;
+    margin-top: 100px;
+}
+
+.image2 {
+    position: absolute;
+    left: 50px;
+    top: 50px;
+    padding-left: 700px;
+}
+
+.image3 {
+    text-align: right;
+    padding-left: 395px;
+    padding-top: 40px;
 }
