@@ -7,7 +7,7 @@
     background-position: center;
 }
 
-.primary_button{
+.primary_button {
     color: #FFFFFF;
     background-color: #FF0000;
     height: 50px;
@@ -108,29 +108,91 @@
 
 /* Third section */
 
-.third_section{
+.third_section {
     background-image: linear-gradient(#f3dada, #FFFFFF);
     height: 500px;
     margin: 100px 30px;
     border-radius: 15px;
 }
 
-.third_section_container{
+.third_section_container {
     text-align: center;
     padding-top: 100px;
 }
 
-.third_section_text{
+.third_section_text {
     font-size: 40px;
     margin-bottom: 5px;
     margin-top: 0;
 }
 
-.third_section_text_color{
+.third_section_text_color {
     color: #FF0000;
 }
 
-.third_section_button{
+.third_section_button {
     text-align: center;
     margin-top: 60px;
+}
+
+/* Section four */
+
+.section_four {
+    height: 400px;
+    /* background-color: #f3dada; */
+    margin: 0 30px;
+    border-radius: 15px;
+}
+
+.section_four_container{
+    display: flex;
+    justify-content: center;
+}
+
+.section_four_element_div{
+    margin-right: 100px;
+    margin-top: 50px;
+}
+
+.section_four_element_div2{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+/* section four element first div */
+
+.section_four_element_head {
+    color: #FF0000;
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+.section_four_element_title {
+    font-size: 35px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.section_four_element_description {
+    font-size: 15px;
+    margin-top: 7px;
+    color: #919492;
+}
+
+/* section four element second div */
+
+.image_border {
+    border-radius: 100%;
+    border: 7px solid #FF0000;
+    padding: 20px;
+    width: 365px;
+    text-align: center;
+}
+
+/* section four element third div */
+
+.section_four_second_element_title{
+    font-size: 35px;
+    color: #FF0000;
+    margin-bottom: 0;
 }
