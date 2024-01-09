@@ -139,7 +139,6 @@
 
 .section_four {
     height: 400px;
-    /* background-color: #f3dada; */
     margin: 0 30px;
     border-radius: 15px;
 }
@@ -155,7 +154,7 @@
 }
 
 .section_four_element_div2{
-    margin-left: 100px;
+    margin-left: 200px;
     margin-top: 50px;
 }
 
@@ -186,7 +185,6 @@
     border: 7px solid #FF0000;
     padding: 20px;
     width: 365px;
-    text-align: center;
 }
 
 /* section four element third div */
@@ -195,4 +193,31 @@
     font-size: 35px;
     color: #FF0000;
     margin-bottom: 0;
+}
+
+/* section five */
+
+.section_five{
+    height: 300px;
+    margin: 0 30px;
+    margin-top: 100px;
+}
+
+.section_five_container{
+    text-align: center;
+}
+
+.section_five_head{
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+.section_five_title{
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.holidays{
+    color: #FF0000;
 }
